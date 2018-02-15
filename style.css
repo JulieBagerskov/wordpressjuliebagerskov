@@ -1,0 +1,39 @@
+/*
+ Theme Name:   Ashe Child
+ Theme URI:    http://Juliebagerskov.dk/ashe-child/
+ Description:  Ashe Child Theme
+ Author:       Julie Bagerskov
+ Author URI:   http://example.com
+ Template:     ashe
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  ashe-child
+*/
+
+
+
+.post-header {
+  text-align: center;
+}
+
+.post-meta,
+.ashe-widget > ul li span,
+.ashe-widget > ul li span a,
+#wp-calendar thead th,
+#wp-calendar caption,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+#reply-title,
+#reply-title a {
+  font-family: 'Playfair Display';
+  font-weight: 500;
+	font-size: 12px;
+}
+
+
